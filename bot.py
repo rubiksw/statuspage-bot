@@ -20,7 +20,7 @@ Maintenance_Refresh = 60
 Embed_Thumbnail = 'https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png'
 
 ### notifications ###
-Should_Ping = False
+Should_Ping = True
 ROLE_ID = 247436279686365184 # @Network Alerts ping
 
 @bot.event
