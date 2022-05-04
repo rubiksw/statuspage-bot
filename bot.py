@@ -14,13 +14,13 @@ bot.remove_command("help")
 
 ### config ###
 Channel_ID = 965017038517067886
-Bot_Activity_Refresh = 60 # seconds
-Incidents_Refresh = 60
-Maintenance_Refresh = 60
-Embed_Thumbnail = 'https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png'
+Bot_Activity_Refresh = 210 # seconds
+Incidents_Refresh = 210
+Maintenance_Refresh = 210
+Embed_Thumbnail = 'https://i.imgur.com/naud7XH.png'
 
 ### notifications ###
-Should_Ping = False
+Should_Ping = True
 ROLE_ID = 247436279686365184 # @Network Alerts ping
 
 @bot.event
